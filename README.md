@@ -12,7 +12,7 @@
 </div>
 
 
-https://sihengz02.github.io/RoLA/assets/videos/demo.mp4
+https://github.com/user-attachments/assets/17772227-5cdd-4e66-9c24-d8adb5d7973b
 
 # News
 - [2025.09.25] Initial release.
