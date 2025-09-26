@@ -21,6 +21,6 @@ https://github.com/user-attachments/assets/17772227-5cdd-4e66-9c24-d8adb5d7973b
 
 # Open-Source Roadmap
 *The code will be fully open-sourced.*
-- [ ] Recover the physical scene from a single image.
-- [ ] Scalable robotic data generation in simulation.
-- [ ] Provide all modules in a standalone Docker, supporting one-command conversion from image to robotic data.
+- [ ] **Early October**: Recover the physical scene from a single image.
+- [ ] **Early October**: Scalable robotic data generation in simulation.
+- [ ] **Mid October**: Provide all modules in a standalone Docker, supporting one-command conversion from image to robotic data.
