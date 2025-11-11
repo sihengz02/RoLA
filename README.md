@@ -15,12 +15,6 @@
 https://github.com/user-attachments/assets/17772227-5cdd-4e66-9c24-d8adb5d7973b
 
 # News
+- [2025.11.10] Code is released at: https://github.com/PointsCoder/OpenReal2Sim.
 - [2025.09.25] Initial release.
 - [2025.08.01] RoLA is accpeted by CoRL 2025.
-
-
-# Open-Source Roadmap
-*The code will be fully open-sourced in late Octorber.*
-- [ ] Recover the physical scene from a single image.
-- [ ] Scalable robotic data generation in simulation.
-- [ ] Provide all modules in a standalone Docker, supporting one-command conversion from image to robotic data.
