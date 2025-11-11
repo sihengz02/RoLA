@@ -14,6 +14,8 @@
 
 https://github.com/user-attachments/assets/17772227-5cdd-4e66-9c24-d8adb5d7973b
 
+**Our codebase is currently maintained at: https://github.com/PointsCoder/OpenReal2Sim.**
+
 # News
 - [2025.11.10] Code is released at: https://github.com/PointsCoder/OpenReal2Sim.
 - [2025.09.25] Initial release.
